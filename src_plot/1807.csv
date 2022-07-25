@@ -1,0 +1,35 @@
+RPISeq (SVM),0.9019,Sensitivity
+RPISeq (RF),0.9651,Sensitivity
+lncPro,0.4325,Sensitivity
+rpiCOOL,0.0039,Sensitivity
+IPMiner,0.7075,Sensitivity
+LncADeep,0.5055,Sensitivity
+LION,0.9884,Sensitivity
+RPISeq (SVM),0.0562,Specificity
+RPISeq (RF),0.0708,Specificity
+lncPro,0.5135,Specificity
+rpiCOOL,0.9954,Specificity
+IPMiner,0.1701,Specificity
+LncADeep,0.7667,Specificity
+LION,0.96,Specificity
+RPISeq (SVM),0.5162,Accuracy
+RPISeq (RF),0.5572,Accuracy
+lncPro,0.4695,Accuracy
+rpiCOOL,0.4561,Accuracy
+IPMiner,0.4624,Accuracy
+LncADeep,0.6246,Accuracy
+LION,0.9754,Accuracy
+RPISeq (SVM),0.6697,F-Measure
+RPISeq (RF),0.7034,F-Measure
+lncPro,0.47,F-Measure
+rpiCOOL,0.0077,F-Measure
+IPMiner,0.5887,F-Measure
+LncADeep,0.5943,F-Measure
+LION,0.9776,F-Measure
+RPISeq (SVM),-0.0449,Kappa
+RPISeq (RF),0.0387,Kappa
+lncPro,-0.0532,Kappa
+rpiCOOL,-0.0007,Kappa
+IPMiner,-0.1272,Kappa
+LncADeep,0.2646,Kappa
+LION,0.9503,Kappa

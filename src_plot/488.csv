@@ -1,0 +1,30 @@
+RPISeq (SVM),0.9585,Sensitivity
+RPISeq (RF),0.9917,Sensitivity
+lncPro,0.7676,Sensitivity
+rpiCOOL,0.0124,Sensitivity
+LncADeep,0.3485,Sensitivity
+LION,0.834,Sensitivity
+RPISeq (SVM),0.2694,Specificity
+RPISeq (RF),0.3959,Specificity
+lncPro,0.951,Specificity
+rpiCOOL,0.9796,Specificity
+LncADeep,0.5959,Specificity
+LION,0.9468,Specificity
+RPISeq (SVM),0.6111,Accuracy
+RPISeq (RF),0.6914,Accuracy
+lncPro,0.8601,Accuracy
+rpiCOOL,0.5,Accuracy
+LncADeep,0.4733,Accuracy
+LION,0.8908,Accuracy
+RPISeq (SVM),0.7097,F-Measure
+RPISeq (RF),0.7611,F-Measure
+lncPro,0.8447,F-Measure
+rpiCOOL,0.0241,F-Measure
+LncADeep,0.3962,F-Measure
+LION,0.8824,F-Measure
+RPISeq (SVM),0.2266,Kappa
+RPISeq (RF),0.3857,Kappa
+lncPro,0.7197,Kappa
+rpiCOOL,-0.008,Kappa
+LncADeep,-0.0556,Kappa
+LION,0.7815,Kappa
